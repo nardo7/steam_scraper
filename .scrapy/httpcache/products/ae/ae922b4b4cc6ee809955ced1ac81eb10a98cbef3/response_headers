@@ -1,0 +1,4 @@
+Server: nginx
+Content-Type: text/html
+Location: https://store.steampowered.com/robots.txt
+Date: Wed, 10 Jun 2020 08:44:34 GMT

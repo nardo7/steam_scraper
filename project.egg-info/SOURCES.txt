@@ -1,0 +1,15 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+steam_scraper/__init__.py
+steam_scraper/items.py
+steam_scraper/middlewares.py
+steam_scraper/pipelines.py
+steam_scraper/settings.py
+steam_scraper/util.py
+steam_scraper/utils.py
+steam_scraper/spiders/ProductSpider.py
+steam_scraper/spiders/__init__.py

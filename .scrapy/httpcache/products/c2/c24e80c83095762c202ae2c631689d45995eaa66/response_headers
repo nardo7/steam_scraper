@@ -1,0 +1,4 @@
+Server: nginx
+Content-Type: text/html
+Location: https://store.steampowered.com/search/?sort_by=Released_DESC
+Date: Wed, 10 Jun 2020 08:44:48 GMT
