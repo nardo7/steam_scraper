@@ -1,0 +1,5 @@
+# compiled output
+/.scrapy
+/build
+/project.egg-info
+/scrapinghub.yml
